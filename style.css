@@ -8,6 +8,13 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
 }
+
+.first-section{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
 .banner1, .banner2, .banner3, .banner4{
     height: 100vh;
     width: 100%;
@@ -167,4 +174,10 @@ img{
 }
 .text-box4{
     animation-delay: 9s;
+}
+.second-section{
+    margin-top: 10px;
+    height: 100vh;
+    width: 100%;
+    background-color: blue;
 }
